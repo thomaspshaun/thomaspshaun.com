@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thomaspshaun</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on thomaspshaun</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 15:37:30 +0200</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2024 22:04:18 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>http://localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+    <item>
+      <title>Marcel</title>
+      <link>http://localhost:1313/posts/marcel/</link>
+      <pubDate>Sun, 28 Jul 2024 22:04:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/marcel/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 28 Jul 2024 15:37:30 +0200</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description></description>
-    </item>
+      <guid>http://localhost:1313/posts/my-first-post/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>London</title>
+      <link>http://localhost:1313/europe/london/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/europe/london/</guid><media:content url="http://localhost:1313/europe/london/20230731_170244122_iOS_hu4cb7bfcadbd365aa1563998d4f6b1174_6704665_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/europe/london/20230731_170244122_iOS_hu4cb7bfcadbd365aa1563998d4f6b1174_6704665_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Paris</title>
+      <link>http://localhost:1313/europe/paris/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/europe/paris/</guid><media:content url="http://localhost:1313/europe/paris/20230727_172607948_iOS_hu403c0948d9095abe6641200dcad6f5b0_3007632_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/europe/paris/20230727_172607948_iOS_hu403c0948d9095abe6641200dcad6f5b0_3007632_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Wine</title>
+      <link>http://localhost:1313/food/wine/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/wine/</guid><media:content url="http://localhost:1313/food/wine/20230708_141423682_iOS_hub5b416a0c3ed0063233c4a7d9a3462f3_2685962_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/food/wine/20230708_141423682_iOS_hub5b416a0c3ed0063233c4a7d9a3462f3_2685962_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/food/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

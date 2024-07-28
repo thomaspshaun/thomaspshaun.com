@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/europe/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/food/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fashion-beauty/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-28T22:04:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/marcel/</loc>
+    <lastmod>2024-07-28T22:04:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-28T22:04:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-07-28T15:37:30+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-07-28T15:37:30+02:00</lastmod>
+    <loc>http://localhost:1313/europe/london/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-07-28T15:37:30+02:00</lastmod>
+    <loc>http://localhost:1313/europe/paris/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/food/wine/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/food/dogs/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imprint/</loc>
   </url>
 </urlset>
